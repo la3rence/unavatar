@@ -87,7 +87,6 @@
     "youtube"
   ],
   "dependencies": {
-    " @sparticuz/chromium": "~123.0.1",
     "@keyvhq/compress": "~2.1.1",
     "@keyvhq/core": "~2.1.0",
     "@keyvhq/multi": "~2.1.0",
@@ -96,6 +95,7 @@
     "@microlink/mql": "~0.13.5",
     "@microlink/ping-url": "~1.4.14",
     "@microlink/ua": "~1.2.3",
+    "@sparticuz/chromium": "~123.0.1",
     "async-memoize-one": "~1.1.7",
     "browserless": "~10.5.0",
     "cacheable-lookup": "~6.1.0",
